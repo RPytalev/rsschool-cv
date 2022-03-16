@@ -18,7 +18,7 @@ K.Marks st. 21, Minsk, 220030, Belarus
 +375293830000  
 rpytalev@gmail.com   
 [GITHUB](https://github.com/RPytalev)  
-[LINKEDIN](linkedin.com/in/roman-pytalev-841973221)  
+[LINKEDIN](https://www.linkedin.com/in/roman-pytalev-841973221/)  
 [CODEWARS](https://www.codewars.com/users/RPytalev)  
 ## WORK EXPERIENCE OBJECTIVE  
 2020 - Freelance, self-development  
@@ -32,3 +32,8 @@ rpytalev@gmail.com
 Humanitarian and Economic institute, Minsk, Belarus  
 2002-2003 lawyer unitary enterprise “Rodnik-88”, Minsk, Belarus  
 2001-2002 - Lecturer at the Department of Belarusian National Technical University, Minsk, Belarus  
+## EDUCATION  
+2022, RSSchool  
+2012, Associate Professor  
+2002, Ph.D  
+1998, graduate Faculty of Economics & Law BIP-University of Law and social-information technologies 
