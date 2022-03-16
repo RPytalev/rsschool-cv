@@ -16,7 +16,19 @@ Experienced manager, lawyer, teacher and a junior web designer seeking to levera
 29.09.1973  
 K.Marks st. 21, Minsk, 220030, Belarus  
 +375293830000  
-rpytalev@gmail.com
+rpytalev@gmail.com   
 [GITHUB](https://github.com/RPytalev)  
 [LINKEDIN](linkedin.com/in/roman-pytalev-841973221)  
 [CODEWARS](https://www.codewars.com/users/RPytalev)  
+## WORK EXPERIENCE OBJECTIVE  
+2020 - Freelance, self-development  
+2013-2020 founder, CEO “INTEVO GROUP”, Russia    
+2009 - 2015 Associate Professor at the Department, Belarusian State University, Minsk, Belarus  
+2012-2013 Manager representative office “GUPA-Technik GmbH”, Germany in Belarus  
+2009-2012 CEO “Pytalev & Partners”, LLC, Minsk, Belarus  
+2007-2009 Chair of the representative office “Stalproekt”, Russia in Belarus  
+2007 Chair of the representative office “Rantal-Impex”, Russia in Belarus  
+2003-2005 Associate Professor at the Department, Chair of the Department International  
+Humanitarian and Economic institute, Minsk, Belarus  
+2002-2003 lawyer unitary enterprise “Rodnik-88”, Minsk, Belarus  
+2001-2002 - Lecturer at the Department of Belarusian National Technical University, Minsk, Belarus  
