@@ -12,3 +12,11 @@ Experienced manager, lawyer, teacher and a junior web designer seeking to levera
 [Pagination, 2021](https://rpytalev.github.io/Pagination/)  
 [Colorpicker, 2021](https://codepen.io/RoPy73/pen/WNEWQBy/)  
 [Custom button, 2021](https://rpytalev.github.io/testTask-customButton/)  
+## PERSONAL INFORMATION   
+29.09.1973  
+K.Marks st. 21, Minsk, 220030, Belarus  
++375293830000  
+rpytalev@gmail.com
+[GITHUB](https://github.com/RPytalev)  
+[LINKEDIN](linkedin.com/in/roman-pytalev-841973221)  
+[CODEWARS](https://www.codewars.com/users/RPytalev)  
