@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    background-color: #000;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h5,
+p {
+  color: #fff;
+}
+
+h5 {
+  margin-bottom: 0;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  padding: 0.3rem 0;
+  list-style: none;
+  font-size: 0.6rem;
+  color: #fff;
+}
+
+a {
+  padding: 0.3rem 0;
+  font-size: 0.6rem;
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: #ff7800;
+}
+
+pre,
+code {
+  padding: 1rem;
+  font-size: 0.4rem;
+  text-align: justify;
+  color: #fff;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0px auto;
+  padding: 0px 15px;
+  background-color: #000;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 8vh;
+}
+
+.header-nav {
+  width: 100%;
+}
+
+
+.nav-links {
+  display: flex;
+  margin: 0;
+  justify-content: space-around;
+}
+
+.nav-links_link {
+  font-size: 0.5rem;
+}
+
+.hamburger {
+  position: fixed;
+  top: 0.5rem;
+  right: 1rem;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  width: 1.2rem;
+  height: 1.2rem;
+  border: 0.01rem solid #fff;
+  border-radius: 0.3rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+  visibility: hidden;
+  z-index: 5555;
+}
+
+.hamburger:hover {
+  border-color: #ff7800;
+}
+
+.hamburger-line {
+  position: absolute;
+  width: 60%;
+  height: 0.1rem;
+  background-color: #fff;
+}
+
+.line-1 {
+  top: .4rem;
+}
+
+.line-2 {
+  top: .6rem;
+}
+
+.active.line-1 {
+  position: relative;
+  top: .1rem;
+  margin: 0;
+  padding: 0;
+  transform: rotate(45deg);
+  transform-origin: center;
+}
+
+.active.line-2 {
+  position: relative;
+  top: -.1rem;
+  margin: 0;
+  padding: 0;
+  transform: rotate(135deg);
+  transform-origin: center;
+}
+
+.hamburger-menu  {
+  position: fixed;
+  /* top: calc(100% - 92vh); */
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  width: calc(100% - 30px);
+  /* height: 0; */
+  border: .1rem solid #fff;
+  border-radius: 0.5rem;
+  border-color: #fff;
+  background-color: rgba(0, 0, 0, 0.9);
+  text-align: center;
+  z-index: 555;
+  visibility: hidden;
+}
+
+.hamburger-menu__list {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.hamburger-menu__item {
+  width: auto;
+  padding: .4rem 0;
+}
+
+.hamburger-menu__item:hover {
+  color: #ff7800;
+}
+
+.hamburger-menu__link {
+  font-size: 0.6rem;
+  font-weight: 400;
+}
+
+.active {
+  visibility: visible;
+}
+
+.active-2 {
+  height: 50vh;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+#container-for-selfie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 15rem;
+  max-height: 17rem;
+  margin: 1rem 0;
+  object-fit: contain;
+  background-color: #fff;
+}
+
+#img-selfie {
+  width: 55%;
+  height: 55%;
+  margin-top: 1rem;
+}
+
+.button-up {
+  position: absolute;
+  display: none;
+  z-index: 555;
+}
+
+.button-up:hover {
+  animation: rotor .3s 1 both;
+}
+
+@keyframes rotor {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#button-up-white {
+  display: none;
+}
+
+#button-up-orange {
+  display: flex;
+}
+
+.showButtonUp {
+  display: flex;
+}
+
+footer {
+  font-size: 0.5rem;
+  text-align: center;
+}
+
+.footer-links {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0;
+}
+
+#logo-rss {
+  display: flex;
+  width: 2rem;
+  height: 2rem;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+@media (max-width: 767px) {
+  h1,
+  h2,
+  p {
+    font-size: 75%;
+  }
+
+  .header-nav {
+    display: none;
+  }
+
+  .hamburger {
+    visibility: visible;
+  }
+
+  pre,
+  code {
+  font-size: 0.2rem;
+  }
+}
+
+@media (max-width: 380px) {
+  pre,
+  code {
+  font-size: 0.1rem;
+  }
+}
