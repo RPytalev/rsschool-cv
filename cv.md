@@ -37,3 +37,9 @@ Humanitarian and Economic institute, Minsk, Belarus
 2012, Associate Professor  
 2002, Ph.D  
 1998, graduate Faculty of Economics & Law BIP-University of Law and social-information technologies 
+## SELF-DEVELOPMENT  
+2021 Project manager course, TeachMeScills, Anastasiya Babovich, Project Manager at EPAM Systems, Minsk, Belarus   
+2020-2021 HTML, CSS, JavaScript for Web developers online course Y.Chaikin, adjunct Professor J.Hopkins University, Baltimore, Maryland, USA  
+2016-2017 Design course, International Design School, Moscow, Russia  
+2016-2017 Graphics online course, Roman Kruglov, Moscow, Russia  
+2015-2016 3D course, 3D School Gripinsky, Eugene Gripinsky, Minsk, Belarus  
